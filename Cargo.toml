@@ -5,3 +5,4 @@ authors = ["Sönke Hahn <soenkehahn@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+cradle = "0.0.1"
